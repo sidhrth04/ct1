@@ -1,7 +1,6 @@
 #include <stdio.h> 
 int main() 
-{ 
-    long int arr[10]; 
+{ long int arr[10]; 
     long int sum,product,i;
     /*To Read array elements*/
     printf("\nEnter elements : \n"); 
